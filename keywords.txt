@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For IntoRobot
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+ WidgetLedLight   KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names in commond
+begin   KEYWORD2
+displayLedStatus  KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+
